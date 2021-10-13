@@ -62,6 +62,25 @@ The example was performed using Postman.
 
 ![tutorialPostman](https://user-images.githubusercontent.com/44611131/136871854-29ef6c37-1a01-49c9-a1b2-2c384490c41b.PNG)
 
+
+## Accessing the H2 database
+
+
+If you want to modify the user to access the database, modify the application.properties file.
+Change the following:
+```
+spring.datasource.username=user
+spring.datasource.password=password
+```
+
+Access in browser
+```
+http://localhost:8080/h2-console
+```
+If the JDBC URL is not configured, replace it with:
+```
+jdbc:h2:mem:testdb
+```
 ## :zap: Technologies	
 
 - Java
