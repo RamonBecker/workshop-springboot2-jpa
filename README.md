@@ -2,7 +2,7 @@
  
 ## :information_source: Information 
 
-The project had as its theme a basic sales workshop system that was developed during the Java programming course by professor Nelio Alves. During development, the following technologies were used: Hibernat, Spring Boot, H2 Database, etc. Only the BackEnd part of the project was carried out. Next, I will show the modeling that was carried out for the development of the system – class diagram – and also how to register and test the system.
+The project had as its theme a basic sales workshop system that was developed during the Java programming course. During development, the following technologies were used: Hibernat, Spring Boot, H2 Database, etc. Only the BackEnd part of the project was carried out. Next, I will show the modeling that was carried out for the development of the system – class diagram – and also how to register and test the system.
 ## ⚠️ Prerequisite
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/br/java/technologies/javase-downloads.html) >= 8 
 
